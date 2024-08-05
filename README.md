@@ -13,10 +13,15 @@ Mysellar Global Sales Dataset 2019 to 2021 reflects the total value of sales and
 - Improve customer satisfaction: Sales analysis will help you understand what customers want and why they buy. These details can be used to forge deeper bonds with your target audience, leading to more upsell and cross-sell opportunities.
 
 ## Tools
+- Microsoft Excel
 
 ## Technique and Skills
+- Data Nominzation
+- Data Modeling
+- Data Visualization
 
 ## Datasource
+- Mysellar Global Sales dataset.
 
 ## Data Model
 
