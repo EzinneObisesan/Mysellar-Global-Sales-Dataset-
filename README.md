@@ -32,4 +32,4 @@ Mysellar Global Sales Dataset 2019 to 2021 reflects the total value of sales and
 ## Recommendation
 
 ## Download
-<a-href = "https://github.com/EzinneObisesan/Mysellar-Global-Sales-Dataset-/blob/main/Mysellar%20Global%20Sales%20Dataset%20Excel%20Dashboard%20(1).xlsx"
+<a-href = "https://github.com/EzinneObisesan/Mysellar-Global-Sales-Dataset-/blob/main/Mysellar%20Global%20Sales%20Dataset%20Excel%20Dashboard%20(1).xlsx"> Download the Excel file <a/>
